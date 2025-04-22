@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-community
+langchain-openai
+tavily-python
+python-dotenv
+langchain-google-genai
+google-generativeai
+xhtml2pdf
+
