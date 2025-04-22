@@ -14,9 +14,9 @@ A fully agentic AI-powered research assistant that autonomously collects informa
 
 1. **Clone this repo**
 
-git clone https://github.com/yourusername/deep-research-agent.git
+git clone https://github.com/SarathiJr45/Deep_Research_AI_Agentic_System.git
 
-cd deep-research-agent
+cd Deep_Research_AI_Agentic_System
 
 2. **Create virtual environment & install dependencies**
 
