@@ -26,6 +26,7 @@ pip install -r requirements.txt
 3. **Add your API keys to .env**
 
 GOOGLE_API_KEY=your_gemini_api_key
+
 TAVILY_API_KEY=your_tavily_api_key
 
 4. **Run the app**
