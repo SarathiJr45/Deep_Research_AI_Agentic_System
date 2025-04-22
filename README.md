@@ -15,12 +15,15 @@ A fully agentic AI-powered research assistant that autonomously collects informa
 1. **Clone this repo**
 
 git clone https://github.com/yourusername/deep-research-agent.git
+
 cd deep-research-agent
 
 2. **Create virtual environment & install dependencies**
 
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
 
 3. **Add your API keys to .env**
@@ -30,4 +33,5 @@ GOOGLE_API_KEY=your_gemini_api_key
 TAVILY_API_KEY=your_tavily_api_key
 
 4. **Run the app**
+
 streamlit run app.py
